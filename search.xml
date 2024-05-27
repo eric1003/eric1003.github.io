@@ -8,7 +8,7 @@
       <link href="/2024/05/27/tmux%E5%AD%97%E4%BD%93%E9%97%AE%E9%A2%98/"/>
       <url>/2024/05/27/tmux%E5%AD%97%E4%BD%93%E9%97%AE%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[<p>更新了iterm之后，tmux的字体显示有问题。上网搜了一下，tmux -u就解决了。神奇。</p>]]></content>
+        <content type="html"><![CDATA[<p>更新了iterm之后，tmux的字体显示有问题。上网搜了一下，tmux -u就解决了。神奇。</p><p>tmux -u: UTF8 mode</p><p>应该是iterm的设置问题。Profile&gt;Terminal&gt;Environment 选custom locale，选择英文UTF-8格式的就正常启动tmux。字体问题就没有了。</p>]]></content>
       
       
       <categories>
