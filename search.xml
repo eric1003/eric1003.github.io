@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>tmux字体问题</title>
+      <link href="/2024/05/27/tmux%E5%AD%97%E4%BD%93%E9%97%AE%E9%A2%98/"/>
+      <url>/2024/05/27/tmux%E5%AD%97%E4%BD%93%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<p>更新了iterm之后，tmux的字体显示有问题。上网搜了一下，tmux -u就解决了。神奇。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 命令 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> tmux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>取消打印机任务</title>
       <link href="/2024/05/14/%E5%8F%96%E6%B6%88%E6%89%93%E5%8D%B0%E6%9C%BA%E4%BB%BB%E5%8A%A1/"/>
       <url>/2024/05/14/%E5%8F%96%E6%B6%88%E6%89%93%E5%8D%B0%E6%9C%BA%E4%BB%BB%E5%8A%A1/</url>
