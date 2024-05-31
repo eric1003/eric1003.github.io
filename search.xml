@@ -58,7 +58,7 @@
       <link href="/2024/05/02/find-grep%E5%91%BD%E4%BB%A4/"/>
       <url>/2024/05/02/find-grep%E5%91%BD%E4%BB%A4/</url>
       
-        <content type="html"><![CDATA[<h2 id="find"><a href="#find" class="headerlink" title="find"></a>find</h2><p><code>find 文件夹 -name &quot;*.md&quot;</code><br>列出在文件夹和其子文件夹中的md文件。</p><p>其他选项：</p><p><code>-iname</code>: 不区分大小写<br><code>-type</code>: f文件，d文件夹<br><code>-exec command &#123;&#125; +</code>: 对结果执行command，加号可以换成;。但是看别人说+执行的速度更快。<br><code>-maxdepth 1</code>: 文件夹深度。1为当前文件夹，不搜索子文件夹。</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="find"><a href="#find" class="headerlink" title="find"></a>find</h2><p><code>find 文件夹 -name &quot;*.md&quot;</code><br>列出在文件夹和其子文件夹中的md文件。</p><p>其他选项：</p><p><code>-iname</code>: 不区分大小写<br><code>-type</code>: f文件，d文件夹<br><code>-exec command &#123;&#125; +</code>: 对结果执行command，加号可以换成;。但是看别人说+执行的速度更快。<br><code>-maxdepth 1</code></p><p>update 2024-05-31<br>‘’’find . -iname “*.md” -exec cp folder&#x2F;path ;‘’’：必须加上反斜杠然后分号，不知道为啥。。。</p>]]></content>
       
       
       <categories>
