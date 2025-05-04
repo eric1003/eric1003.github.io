@@ -4,6 +4,123 @@
   
     
     <entry>
+      <title>MacBook Air M1 调节亮度问题</title>
+      <link href="/2025/05/04/MacBook-Air-M1-%E8%B0%83%E8%8A%82%E4%BA%AE%E5%BA%A6%E9%97%AE%E9%A2%98/"/>
+      <url>/2025/05/04/MacBook-Air-M1-%E8%B0%83%E8%8A%82%E4%BA%AE%E5%BA%A6%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>不知道为啥一早上开始MBA的屏幕就很暗。然后我调到最亮之后，发现还没反应。以为已经到最亮，可能是机器老了。到下午才发现，是不管按增加亮度还是减少亮度，都无效。</p><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><p>参考：<a href="https://www.reddit.com/r/mac/comments/1e5fpmh/comment/lppvj06/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1&context=3">链接</a>  </p><p>让机器休眠，然后等几秒，登录。然后就可以调节了。好奇葩的解决方式。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 折腾 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> display </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2025/04/19/hello-world/"/>
+      <url>/2025/04/19/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mirror Display设置</title>
+      <link href="/2025/04/19/Mirror-Display%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2025/04/19/Mirror-Display%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>Mac Mini接了两个显示器。大部分时候显示器A足够用，所以就会把显示器B关上。但是在Mac的设置里，仍然会显示显示器B，而且鼠标会移出到显示器B上。如果之前两个显示器都打开使用的时候，一个App是在显示器B上的话，只有显示器A的时候，切换到那个App，那个App还是显示在显示器B上。非常不爽。另一个不爽的点是拖拽到边缘的窗口快捷改变，也会被认为是拖拽到显示器B上面。</p><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><p>想写一个script去解决。问了Gemini之后，发现有开启mirroring的快捷键。</p><p><code>Command (⌘) + F1 (亮度减小键)</code> </p><p>非常好用。推荐。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 折腾 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> mirror display </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分流规则</title>
+      <link href="/2025/04/17/%E5%88%86%E6%B5%81%E8%A7%84%E5%88%99/"/>
+      <url>/2025/04/17/%E5%88%86%E6%B5%81%E8%A7%84%E5%88%99/</url>
+      
+        <content type="html"><![CDATA[<h2 id="有用链接"><a href="#有用链接" class="headerlink" title="有用链接"></a>有用链接</h2><p><a href="https://github.com/blackmatrix7/ios_rule_script">https://github.com/blackmatrix7/ios_rule_script</a><br><a href="https://github.com/Loyalsoldier/clash-rules">https://github.com/Loyalsoldier/clash-rules</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 折腾 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分流 </tag>
+            
+            <tag> 规则 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>jellyfin在openwrt的docker的设置</title>
+      <link href="/2025/04/01/jellyfin%E5%9C%A8openwrt%E7%9A%84docker%E7%9A%84%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2025/04/01/jellyfin%E5%9C%A8openwrt%E7%9A%84docker%E7%9A%84%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h3 id="基本设置"><a href="#基本设置" class="headerlink" title="基本设置"></a>基本设置</h3><pre><code>docker run -d \ --name=jellyfin \ --hostname=jellyfin \ --pull=always \ --privileged \ --volume /data/docker/jellyfin/config:/config \ --volume /data/docker/jellyfin/cache:/cache \ --volume /data/docker/jellyfin/media:/media \ --volume /data/fonts:/usr/local/share/fonts \ #没用到 --user 1000:1000 \ --net=host \ #重点！bridge的话，jellyfin就没有网络，不知道为什么 --restart=unless-stopped \ --device /dev/dri/renderD128:/dev/dri/renderD128 \ #没管 --device /dev/dri/card0:/dev/dri/card0 \ #没管 jellyfin/jellyfin</code></pre><p>默认端口为8096.</p><p>参考链接：<br><a href="https://leovan.me/cn/2023/01/build-home-media-center-with-jellyfin-on-openwrt/">在 OpenWrt 中安装 Jellyfin 搭建家庭影音中心</a></p><h3 id="metashark豆瓣刮削"><a href="#metashark豆瓣刮削" class="headerlink" title="metashark豆瓣刮削"></a>metashark豆瓣刮削</h3><p>Plugin -&gt; Repository -&gt; Add</p><p>添加插件存储库：</p><p>国内加速：<br><a href="https://ghfast.top/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/manifest/manifest_cn.json">https://ghfast.top/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/manifest/manifest_cn.json</a></p><p>国外访问：<br><a href="https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/manifest/manifest.json">https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/manifest/manifest.json</a></p><p>安装完之后，需要重启。进入控制台 -&gt; 媒体库，点击任一媒体库进入配置页，在元数据下载器选项中勾选MetaShark，并把MetaShark移动到第一位。</p><p>参考链接：<br><a href="https://github.com/cxfksword/jellyfin-plugin-metashark?tab=readme-ov-file">jellyfin-plugin-metashark</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 折腾 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> jellyfin </tag>
+            
+            <tag> metashark </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ssrplus分流问题</title>
       <link href="/2025/01/18/ssrplus%E5%88%86%E6%B5%81%E9%97%AE%E9%A2%98/"/>
       <url>/2025/01/18/ssrplus%E5%88%86%E6%B5%81%E9%97%AE%E9%A2%98/</url>
@@ -183,19 +300,6 @@
       <url>/2023/12/18/new-post-test/</url>
       
         <content type="html"><![CDATA[<p>测试是否可以同步到github.</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/12/18/hello-world/"/>
-      <url>/2023/12/18/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
