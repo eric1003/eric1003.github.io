@@ -4,6 +4,108 @@
   
     
     <entry>
+      <title>test of setting text alignment</title>
+      <link href="/2025/05/23/test-of-setting-text-alignment/"/>
+      <url>/2025/05/23/test-of-setting-text-alignment/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Create-a-virtual-environment"><a href="#Create-a-virtual-environment" class="headerlink" title="Create a virtual environment"></a>Create a virtual environment</h2><p><code>python3 -m venv name_of_your_choice</code><br><code>source name_of_your_choice/bin/activate</code></p><h2 id="Install-packages"><a href="#Install-packages" class="headerlink" title="Install packages"></a>Install packages</h2><p><code>pip install package_name</code> #No need to use pip3</p><h2 id="Run-script"><a href="#Run-script" class="headerlink" title="Run script"></a>Run script</h2><p><code>python file.py</code> #No need to use python3</p><h2 id="Deactivate-the-virtual-environment"><a href="#Deactivate-the-virtual-environment" class="headerlink" title="Deactivate the virtual environment"></a>Deactivate the virtual environment</h2><p><code>deactivate</code></p><p>@sven_shi: 这个炒股亏损，因为没有获得配偶同意，所以离婚要补偿配偶的案例可以仔细讲下。大家不用有特别大的担心，真担心以后不领结婚证就没这些烦恼了。</p><p>整体案例很简单。现在不让讲性别，那么就用甲乙代替。甲家里有钱，所以在和乙结婚之后，甲家就出钱买了套房子只写了甲的名字。之后甲把他名下的房子卖掉了，获得了一大笔钱。这笔钱就被认定成了 “夫妻共同财产”。</p><p>接着甲拿这笔钱去炒股，亏了一半。之后乙就要和甲离婚。期间双方还有生完孩子之后搞的一堆乱七八糟的婚内协议，也是比较典型的夫妻互害。就是比较穷的一方提前算计好，要拿富的一方家里的钱。</p><p>因为婚姻是零和博弈，你所有在婚姻中获得的钱都是你配偶的亏损。</p><p>那么真打离婚官司，法官肯定是同情弱势的乙，所以就把甲买股票亏损这件事情认定成侵害夫妻共同财产的利益，让甲额外拿出一笔钱来补贴乙。</p><p>这是一个自由裁量的案例。在这个案例中甲卖房子炒股，赚钱了要和配偶分，亏钱了就要自己承担还要补偿配偶，大家可能会觉得不太公平。但是现实中这个案例里是甲有钱，所以判决的结果本质就是让甲多拿出点钱来补贴弱势的乙。</p><p>婚姻制度，惩罚的是有钱人。你有钱，对夫妻共同财产作出更大的贡献，离婚就惩罚你。这个案例中，甲最大的争议，就是结婚后把只在他名下的房子卖掉，这笔钱被算成了夫妻共同财产。</p><p>但是现实中如果双方都没什么钱，或者甲乙经破产了，法官一般（注意就是一般逻辑下）也不会那么裁量。</p><p>比如甲乙结婚后买房。甲拿着自己的钱比如首付 30 万，贷款 70 万买了套 100 万的房子。房价涨，乙可以分钱。要是房价跌了甲断贷了？比如房子法拍就价值 50 万，甲彻底破产后还欠了银行 20 万。这个时候离婚，法官会判决甲再因为滥用夫妻共同财产比如还房贷，继续赔偿乙吗？</p><p>从目前的一些案例来看，法官没有那么做过。买房子买到破产欠银行钱的案例当中，法官各种认定夫妻共同债务的方案都有，目前还没有一个统一的说法。</p><p>就是你要是真投资破产了，法官一般也不会最后再让你补偿你配偶的。因为哪怕要补偿，你也没钱啊。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 折腾 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python virtual environment</title>
+      <link href="/2025/05/23/Python-virtual-environment/"/>
+      <url>/2025/05/23/Python-virtual-environment/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Create-a-virtual-environment"><a href="#Create-a-virtual-environment" class="headerlink" title="Create a virtual environment"></a>Create a virtual environment</h2><p><code>python3 -m venv name_of_your_choice</code><br><code>source name_of_your_choice/bin/activate</code></p><h2 id="Install-packages"><a href="#Install-packages" class="headerlink" title="Install packages"></a>Install packages</h2><p><code>pip install package_name</code> #No need to use pip3</p><h2 id="Run-script"><a href="#Run-script" class="headerlink" title="Run script"></a>Run script</h2><p><code>python file.py</code> #No need to use python3</p><h2 id="Deactivate-the-virtual-environment"><a href="#Deactivate-the-virtual-environment" class="headerlink" title="Deactivate the virtual environment"></a>Deactivate the virtual environment</h2><p><code>deactivate</code></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 折腾 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo转到Mac Mini M4</title>
+      <link href="/2025/05/20/hexo%E8%BD%AC%E5%88%B0Mac-Mini-M4/"/>
+      <url>/2025/05/20/hexo%E8%BD%AC%E5%88%B0Mac-Mini-M4/</url>
+      
+        <content type="html"><![CDATA[<h2 id="hexo迁移"><a href="#hexo迁移" class="headerlink" title="hexo迁移"></a>hexo迁移</h2><p>看了很多教程仍然不太明白，但是瞎整之后，看起来还行。这篇文章测试一下。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 折腾 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>安装迁移hexo到新电脑</title>
+      <link href="/2025/05/19/%E5%AE%89%E8%A3%85%E8%BF%81%E7%A7%BBhexo%E5%88%B0%E6%96%B0%E7%94%B5%E8%84%91/"/>
+      <url>/2025/05/19/%E5%AE%89%E8%A3%85%E8%BF%81%E7%A7%BBhexo%E5%88%B0%E6%96%B0%E7%94%B5%E8%84%91/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Prerequisite"><a href="#Prerequisite" class="headerlink" title="Prerequisite"></a>Prerequisite</h2><ul><li>Git<br><code>brew install git</code> #安装git<br><code>git --version</code> #查看是否安装git</li></ul><p><code>git config --global user.name &quot;username&quot;</code><br><code>git config --global user.email &quot;username@example.com&quot;</code></p><p><code>ssh-keygen -t rsa -C &quot;youremail@example.com&quot;</code><br>输入邮件地址一路回车 完成会在 .ssh 目录下生成 SSH 密钥<br>输入 cat ~&#x2F;.ssh&#x2F;id_rsa.pub<br>查看公钥 复制添加到Github</p><ul><li><p>Node.js<br><code>brew install node</code> #安装node<br><code>node -v</code> #查看是否安装<br><code>npm -v</code> #查看是否安装</p></li><li><p>hexo<br><code>sudo npm install -g hexo</code></p></li></ul><h2 id="文件"><a href="#文件" class="headerlink" title="文件"></a>文件</h2><p>我把source文件夹直接放网盘里了。</p><p>直接把原来电脑的文件夹复制，然后覆盖到新电脑的文件夹。看看_config.yml有无需要修改的。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 折腾 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MacBook Air M1 调节亮度问题</title>
       <link href="/2025/05/04/MacBook-Air-M1-%E8%B0%83%E8%8A%82%E4%BA%AE%E5%BA%A6%E9%97%AE%E9%A2%98/"/>
       <url>/2025/05/04/MacBook-Air-M1-%E8%B0%83%E8%8A%82%E4%BA%AE%E5%BA%A6%E9%97%AE%E9%A2%98/</url>
